@@ -1,0 +1,6 @@
+{
+  "note": "Colab(T4)の出力から転記した要約。result.json 全文ではない。",
+  "base": {"num_train_epochs": 20, "steps": 40, "final_loss": 0.013769, "train_seconds": 222, "before": {"format_rate": 0.0952, "content_rate": 0.0}, "after": {"format_rate": 1.0, "content_rate": 0.9048}, "regressed": []},
+  "changed": {"num_train_epochs": 10, "steps": 20, "final_loss": 0.101580, "train_seconds": 113, "before": {"format_rate": 0.0952, "content_rate": 0.0}, "after": {"format_rate": 1.0, "content_rate": 0.8571}, "regressed": []},
+  "executed_training_myself": true
+}
